@@ -8,7 +8,7 @@ An implementation of **Style-Aligned batch image generation** (inspired by [Goog
 ## 📓 Google Colab Notebook
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VarvYPe2G55ZQp6kwP6mSG2vcO3dCC0F#scrollTo=Xun15tBTILJO)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VarvYPe2G55ZQp6kwP6mSG2vcO3dCC0F?usp=sharing)
 
 ---
 
